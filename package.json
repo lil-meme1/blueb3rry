@@ -1,0 +1,21 @@
+{
+  "name": "blu3berry",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "lil meme",
+  "license": "ISC",
+  "dependencies": {
+    "ascii-table": "0.0.9",
+    "common-tags": "^1.8.0",
+    "discord": "^0.8.2",
+    "discord-buttons": "^3.1.1",
+    "discord.js": "^12.5.3",
+    "dotenv": "^8.2.0",
+    "hashmap": "^2.4.0"
+  },
+  "devDependencies": {},
+  "description": ""
+}
